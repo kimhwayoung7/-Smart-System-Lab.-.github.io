@@ -1,1 +1,1 @@
-# -Smart-System-Lab.-.github.io
+# Smart-System-Lab.github.io
